@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Xiangchen Guo
 
-📚 Mathematics & Statistics Student @ UIUC  
-🔍 Passionate about Data Science, Modeling, and Real-World Applications  
-⚾ Special interest in Baseball Analytics, Experimental Design, and Interactive Visualization  
+Mathematics & Statistics Student @ UIUC  
+Passionate about Data Science, Modeling, and Real-World Applications  
+Special interest in Baseball Analytics, Experimental Design, and Interactive Visualization  
 
 ---
 
