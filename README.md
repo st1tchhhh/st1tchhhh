@@ -19,3 +19,5 @@
 - Keep learning in **R** and **Python**
 - Learning and using new language to explore more on Data Science
 
+---
+Contact me if you are also a big fan of DS!!
